@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import renderHTML from 'react-render-html';
 import request from '../request';
 import Loader from '../common/loader';
