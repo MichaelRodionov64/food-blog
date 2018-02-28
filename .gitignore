@@ -2,3 +2,4 @@ node_modules
 build
 bucket.json
 NOTES.md
+.DS_Store
