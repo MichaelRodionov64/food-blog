@@ -7,5 +7,5 @@ module.exports = {
         }
     },
 	title: 'Кулинарный Блог',
-	articlePageSize: 6
+	articlePageSize: 4
 }
