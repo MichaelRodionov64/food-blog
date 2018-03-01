@@ -6,6 +6,6 @@ module.exports = {
             write_key: process.env.COSMIC_WRITE_KEY
         }
     },
-	title: 'Кулинарный Блог',
+	title: 'Кулинарный Мост',
 	articlePageSize: 4
 }
