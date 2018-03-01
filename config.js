@@ -7,5 +7,5 @@ module.exports = {
         }
     },
 	title: 'Кулинарный Мост',
-	articlePageSize: 4
+	articlePageSize: 5
 }
