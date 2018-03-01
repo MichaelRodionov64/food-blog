@@ -65,7 +65,7 @@ class Home extends Component{
 			<hr />
 			
 			<a className="more" onClick={next}>
-				Загрузить больше статей
+				Показать больше статей
 			</a>
 		</div>;
 	}

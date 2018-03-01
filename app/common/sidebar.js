@@ -27,7 +27,7 @@ class Sidebar extends Component {
 				</nav>
 
 				<a className="more" onClick={this.props.next}>
-					Загрузить еще
+					Показать еще
 				</a>
 			</div>
 		);
